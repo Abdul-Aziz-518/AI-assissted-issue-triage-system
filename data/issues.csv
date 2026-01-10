@@ -1,6 +1,4 @@
-Unnamed: 0,Name,RollNumber,Location,IssueDescription,Date,Time
-0.0,Herobrine,25N31A6602,HS Block,Unhygenic area,08/01/2026,01:12:20
-1.0,A,123456,Hall,dead,2026-01-09,17:40:21.900679
-2.0,B,987654,Hall,Alive,2026-01-09,17:40:39.420056
-3.0,C,456789,Well,Water,2026-01-09,17:41:24.997856
-,rthd,78465312,tdx,tyfcgjhvkcfxjcgv,2026-01-10,18:51:22.381520
+TicketID,Name,RollNumber,Location,IssueDescription,Date,Time
+TCKT-0001,A,1,Home,fire,2026-01-11,00:11:54.612247
+TCKT-0002,B,2,Hall,Water,2026-01-11,00:12:11.500734
+TCKT-0003,C,3,Canteen,Food,2026-01-11,00:12:37.346294
