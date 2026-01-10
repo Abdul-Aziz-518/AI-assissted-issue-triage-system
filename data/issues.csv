@@ -1,4 +1,4 @@
-TicketID,Name,RollNumber,Location,IssueDescription,Date,Time
-TCKT-0001,A,1,Home,fire,2026-01-11,00:11:54.612247
-TCKT-0002,B,2,Hall,Water,2026-01-11,00:12:11.500734
-TCKT-0003,C,3,Canteen,Food,2026-01-11,00:12:37.346294
+TicketID,Name,RollNumber,Location,IssueDescription,Date,Time,Status
+TCKT-0001,A,1,Home,fire,2026-01-11,00:11:54.612247,Open
+TCKT-0002,B,2,Hall,Water,2026-01-11,00:12:11.500734,Open
+TCKT-0003,C,3,Canteen,Food,2026-01-11,00:12:37.346294,Open
